@@ -1,0 +1,9 @@
+.emptypage__message { 
+    font-size: small;
+    font-weight: 500;
+}
+.emptypage__user{ 
+    font-size: large;
+    font-weight: bolder;
+    color: purple;
+}

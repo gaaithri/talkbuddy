@@ -1,0 +1,28 @@
+.message{ 
+    display: flex;
+    align-items:center;
+    padding:10px;
+    font-size: medium;
+    
+    
+}
+
+.message >img{ 
+    height:30px;
+    width: 30px;
+    object-fit:contain;
+    border-radius: 15px;
+    padding: 10px;
+}
+
+.message_timestamp{ 
+    color:gray ;
+    font-weight: 300;
+    font-size: 13px;
+}
+.message_user { 
+    color: purple;
+    font-size: small;
+    font-weight: 500;
+    font-style: italic;
+}
