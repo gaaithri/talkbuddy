@@ -2,7 +2,7 @@
 
 BuddyTalk is a web app to exchange messages across a group of people.  Slack Clone bassed app. 
 
-You can access the Application @ [BuddyTalk](https://buddytalk-b333.web.app)
+## Access the Application @ [BuddyTalk](https://buddytalk-b333.web.app)
 Login Credentials : User can login with any active gmailId and password. 
 
 This application is built on ReactJS and cloud firestore Backend.
